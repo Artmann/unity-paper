@@ -1,0 +1,16 @@
+{
+  "name": "co.artmann.unity-paper",
+  "version": "1.0.0",
+  "displayName": "Paper",
+  "description": "",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "license": "MIT",
+  "author": "Christoffer Artmann <artgaard@gmail.com>",
+  "keywords": [
+    "Unity",
+    "UI",
+    "UI Toolkit"
+  ],
+  "dependencies": {}
+}
